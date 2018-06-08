@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "dromozoa-calendar"
-version = "1.6-1"
+version = "1.7-1"
 -- LuaDist source
 source = {
-  tag = "1.6-1",
+  tag = "1.7-1",
   url = "git://github.com/LuaDist-testing/dromozoa-calendar.git"
 }
 -- Original source
 -- source = {
---   url = "https://github.com/dromozoa/dromozoa-calendar/archive/v1.6.tar.gz";
---   file = "dromozoa-calendar-1.6.tar.gz";
+--   url = "https://github.com/dromozoa/dromozoa-calendar/archive/v1.7.tar.gz";
+--   file = "dromozoa-calendar-1.7.tar.gz";
 -- }
 description = {
   summary = "Date functions and Japanese calendar";
